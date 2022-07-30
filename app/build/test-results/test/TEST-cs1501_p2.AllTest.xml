@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs1501_p2.AllTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-10-23T18:18:36" hostname="zu-mac.local" time="0.152">
+  <properties/>
+  <testcase name="Testing DLB" classname="cs1501_p2.AllTest" time="0.125"/>
+  <testcase name="Testing AutoCompleter" classname="cs1501_p2.AllTest" time="0.018"/>
+  <testcase name="Testing UserHistory" classname="cs1501_p2.AllTest" time="0.003"/>
+  <system-out><![CDATA[File already exists
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
